@@ -1,0 +1,32 @@
+
+
+
+/*Positioning*/
+.position-relative {
+    position: relative;
+    text-align: center;
+    }
+
+.position-absolute {
+    position: absolute;
+    top: 50px;
+    left: 16px;
+    }
+
+/*Index H1*/
+H1 {
+    color: #202020;
+
+    }
+
+/*Margins*/
+.top-border {
+    margin-top: 30px;
+    } 
+
+/*Margins for cards in contact.html*/
+.card-border {
+    margin: 30px;
+    }
+
+

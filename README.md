@@ -2,13 +2,14 @@
 
 ## Introduction
 Hi I'm Janice! This project is a work in progress as I develop my skills as a web developer. Aim is to showcase how I've built
-my skills from the ground up. How my concepts and designs evolve!   
+my skills from the ground up and how my concepts and designs have evolved!   
 
 ## Motivation
-Having fun learning a new skill set and debugging!
+Having fun learning a new skills and debugging!
 
 ## My Portfolio! 
-![Webpage Screenshot](/Images/webpage_screenshot.JPG)Format: ![Alt Weblink](https://janice-cloud.github.io/IAMJANICE/Index.html)	
+![Webpage Screenshot](/Images/webpage_screenshot.JPG)
+Format: ![Alt Weblink](https://janice-cloud.github.io/IAMJANICE/Index.html)	
 
 ## Technologies
 Bootstrap 4

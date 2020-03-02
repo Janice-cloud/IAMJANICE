@@ -12,9 +12,9 @@ Having fun learning a new skills and debugging!
 [IAMJANICE](https://janice-cloud.github.io/IAMJANICE/Index.html)
 
 ## Technologies
-Bootstrap 4
-HTML 
-CSS
+* Bootstrap 4
+* HTML 
+* CSS
 
 ## License	
 © Janice Leung 

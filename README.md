@@ -9,7 +9,7 @@ Having fun learning a new skills and debugging!
 
 ## My Portfolio! 
 ![Webpage Screenshot](/Images/webpage_screenshot.JPG)
-Format: ![Alt Weblink](https://janice-cloud.github.io/IAMJANICE/Index.html)	
+Format: ![Weblink](https://janice-cloud.github.io/IAMJANICE/Index.html)	
 
 ## Technologies
 Bootstrap 4

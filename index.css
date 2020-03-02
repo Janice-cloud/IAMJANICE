@@ -1,6 +1,3 @@
-body {
-    
-}
 
 /*Positioning on index page*/
 .position-relative {
@@ -12,13 +9,7 @@ body {
     position: absolute;
     top: 50px;
     left: 16px;
-    }
-
-/*Index H1*/
-H1 {
-    color: #202020;
-
-    }
+    }ß
 
 /*Margins*/
 .top-border {

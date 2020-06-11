@@ -1,0 +1,58 @@
+
+/* styles for the my bio page */
+  .header {
+    Margin: 0;
+    background-color:black;
+    padding: 20px;
+    text-align: center;
+}
+/* Style H1 header */
+h1 {
+    text-align: center;
+    color:white;
+    background-color: black;
+    }
+
+/* Style for Your NAME */
+.header2 {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+/* Add background colour to the body*/
+Body {
+    margin: 0;
+    background-color: rgb(233, 220, 204);
+}
+
+  /* aligning <P>*/
+
+    p {
+   text-align: left;
+   margin-left: 100px;
+   margin-top: 60px;
+}
+
+/* Two colums that float next to each other with a margin on the left colum */
+.column {
+    float: left;
+    width: 60%;
+    margin-left: 35px;
+}
+
+.column1{
+    float: left;
+    width: 30%;
+    Margin-left: 70px;
+    Margin-top: 60px;
+}
+
+/* resize the image with <p> text next to image */
+img {
+    width: 200px;
+    height: 300px;
+    float: left;
+    margin-right: 40px;
+    margin-left: 30px;
+    Margin-top: 10px;
+}

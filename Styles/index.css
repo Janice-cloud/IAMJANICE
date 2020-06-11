@@ -1,0 +1,25 @@
+
+
+/*Positioning on index page*/
+.position-relative {
+    position: relative;
+    text-align: center;
+    }
+
+.position-absolute {
+    position: absolute;
+    top: 50px;
+    left: 16px;
+    }ß
+
+/*Margins*/
+.top-border {
+    margin-top: 30px;
+    } 
+
+/*Margins for cards in contact.html*/
+.card-border {
+    margin: 30px;
+    }
+
+

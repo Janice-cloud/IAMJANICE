@@ -5,7 +5,7 @@ function About() {
   return (
     <div>
       <Container>
-        <h1>About Page</h1>
+        <h1>My Story</h1>
       </Container>
     </div>
   );

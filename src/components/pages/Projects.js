@@ -9,6 +9,7 @@ function Projects() {
     <div>
       <Container>
         <h1>Projects </h1>
+        
         {Data.map((item) => (
              <CardProject
              key={item.id}
@@ -18,7 +19,7 @@ function Projects() {
              link={item.link}
              ></CardProject>
         ))}
-     
+      
       </Container>
     </div>
   );

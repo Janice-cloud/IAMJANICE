@@ -15,21 +15,21 @@
     },
     {
         "id": 3,
-        "card_image": "https://github.com/Janice-cloud/IAMJANICE/blob/master/Images/project2-coddiwomble.jpeg?raw=true",
+        "card_image": "https://github.com/Janice-cloud/IAMJANICE/blob/master/Images/FitnessTracker.jpg",
         "card_title": "Fitness Tracker",
         "card_text": "Keep on track with your health by using this app to track your workouts.",
         "link": "https://blooming-savannah-65489.herokuapp.com/"
     },
     {
         "id": 4,
-        "card_image": "https://github.com/Janice-cloud/budget-tracker/blob/master/public/icons/Budgettracker.jpeg",
+        "card_image": "https://github.com/Janice-cloud/IAMJANICE/blob/master/Images/budget_tracker.jpg",
         "card_title": "Budget App",
         "card_text": "This app allows you to track your expenses to keep ontop of your financial goals.",
         "link": "https://budgettrackers123.herokuapp.com/"
     },
     {
         "id": 5,
-        "card_image": "https://github.com/Janice-cloud/IAMJANICE/blob/master/Images/PasswordGenerator.jpeg?raw=true",
+        "card_image": "https://github.com/Janice-cloud/IAMJANICE/blob/master/Images/employee_directory.jpg",
         "card_title": "Employee Directory",
         "card_text": "Find your colleagues with this directory.",
         "link": "https://janice-cloud.github.io/employee-directory/"

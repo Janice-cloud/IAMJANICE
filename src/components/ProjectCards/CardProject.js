@@ -1,13 +1,15 @@
 import React from "react";
-import { Card, Button } from "react-bootstrap";
+import { Card, Button, Row } from "react-bootstrap";
+
 
 
 function CardProject(props) {
   return (
     <div>
+    <Row style={{ marginTop: "3rem" }}></Row>  
     {
       <Card style={{ width: "18rem" }}>
-        <Card.Img variant="top" src={props.card_image}></Card.Img>
+        <Card.Img className="image" variant="top" src={props.card_image}></Card.Img>
         <Card.Body>
           <Card.Title>{props.card_title}</Card.Title>
           <Card.Text>

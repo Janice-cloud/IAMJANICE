@@ -1,10 +1,13 @@
 import React from "react";
-import { Navbar, Nav, Row } from "react-bootstrap";
+import { Navbar, Nav } from "react-bootstrap";
 
 function NavTabs() {
   return (
     <div>
-      <Navbar bg="dark" variant="dark">
+      <Navbar 
+      bg="dark" 
+      variant="dark"
+      >
         <Navbar.Brand>
           <Nav.Link href="/">Home</Nav.Link>
         </Navbar.Brand>
@@ -17,7 +20,6 @@ function NavTabs() {
           <Nav.Link href="Contact">Contact</Nav.Link>
         </Nav>
       </Navbar>
-      <Row style={{ marginTop: "1rem" }}></Row>
     </div>
   );
 }

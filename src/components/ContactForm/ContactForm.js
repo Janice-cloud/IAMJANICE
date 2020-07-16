@@ -21,7 +21,7 @@ class ContactForm extends Component {
     };
     emailjs
       .send(
-        "gmail",
+        "janice_leung2008_gmail_com",
         "template_sYCO5dys",
         templateParams,
         "user_ypCug9vMhcn9NXIGPNpty",

@@ -1,8 +1,6 @@
 import React from "react";
 import { Card, Button, Row, Col } from "react-bootstrap";
 
-
-
 function CardProject(props) {
   return (
     <div>
@@ -10,7 +8,7 @@ function CardProject(props) {
       <Col xs lg="2">
     {
       <Card style={{ width: "18rem" }}>
-        <Card.Img style={{height: "250px"}} className="image" variant="top" src={props.card_image}></Card.Img>
+        <Card.Img style={{height: "250px", width: "18rem"}} className="image" variant="top" src={props.card_image}></Card.Img>
         <Card.Body>
           <Card.Title>{props.card_title}</Card.Title>
           <Card.Text>

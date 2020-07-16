@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IAMJANICE/static/css/main.9add48e8.chunk.css",
+    "main.js": "/IAMJANICE/static/js/main.3bad7404.chunk.js",
+    "main.js.map": "/IAMJANICE/static/js/main.3bad7404.chunk.js.map",
+    "runtime-main.js": "/IAMJANICE/static/js/runtime-main.6636b42f.js",
+    "runtime-main.js.map": "/IAMJANICE/static/js/runtime-main.6636b42f.js.map",
+    "static/js/2.d7e544ef.chunk.js": "/IAMJANICE/static/js/2.d7e544ef.chunk.js",
+    "static/js/2.d7e544ef.chunk.js.map": "/IAMJANICE/static/js/2.d7e544ef.chunk.js.map",
+    "index.html": "/IAMJANICE/index.html",
+    "precache-manifest.1ee20e018c05fd0b4918504b712b46f4.js": "/IAMJANICE/precache-manifest.1ee20e018c05fd0b4918504b712b46f4.js",
+    "service-worker.js": "/IAMJANICE/service-worker.js",
+    "static/css/main.9add48e8.chunk.css.map": "/IAMJANICE/static/css/main.9add48e8.chunk.css.map",
+    "static/js/2.d7e544ef.chunk.js.LICENSE.txt": "/IAMJANICE/static/js/2.d7e544ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6636b42f.js",
+    "static/js/2.d7e544ef.chunk.js",
+    "static/css/main.9add48e8.chunk.css",
+    "static/js/main.3bad7404.chunk.js"
+  ]
+}

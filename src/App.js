@@ -5,7 +5,7 @@ import Home from "./components/pages/Home";
 import About from "./components/pages/About";
 import Contact from "./components/pages/Contact";
 import Projects from "./components/pages/Projects";
-import Footer from "./components/Footer/index"
+import Footer from "./components/Footer/index";
 
 function App() {
   return (

@@ -12,10 +12,10 @@ function App() {
     <Router>
       <div>
         <NavTabs />
-        <Route exact path= {process.env.PUBLIC_URL + "/"}  component={Home} />
-        <Route exact path= {process.env.PUBLIC_URL + "/About"}  component={About} />
-        <Route exact path= {process.env.PUBLIC_URL + "/Projects" } component={Projects} />
-        <Route path= {process.env.PUBLIC_URL + "/Contact"  } component={Contact} />
+        <Route exact path=  "/"  component={Home} />
+        <Route exact path= "/About"  component={About} />
+        <Route exact path= "/Projects" component={Projects} />
+        <Route path= "/Contact" component={Contact} />
         <Footer />
       </div>
     </Router>

@@ -1,9 +1,11 @@
 import React from "react";
 import { Container } from "react-bootstrap";
 
+
 function About() {
   return (
     <div>
+ 
       <Container>
         <h1>My Story</h1>
         <p>
@@ -18,6 +20,7 @@ function About() {
           Which has stimulated my thirst to continually apply my new skills within the industry.
         </p>
       </Container>
+       
     </div>
   );
 }

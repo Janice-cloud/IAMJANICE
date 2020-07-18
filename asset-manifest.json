@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/IAMJANICE/static/js/main.4c9258d3.chunk.js",
-    "main.js.map": "/IAMJANICE/static/js/main.4c9258d3.chunk.js.map",
+    "main.js": "/IAMJANICE/static/js/main.a42c8a0a.chunk.js",
+    "main.js.map": "/IAMJANICE/static/js/main.a42c8a0a.chunk.js.map",
     "runtime-main.js": "/IAMJANICE/static/js/runtime-main.6636b42f.js",
     "runtime-main.js.map": "/IAMJANICE/static/js/runtime-main.6636b42f.js.map",
-    "static/js/2.ad1839b8.chunk.js": "/IAMJANICE/static/js/2.ad1839b8.chunk.js",
-    "static/js/2.ad1839b8.chunk.js.map": "/IAMJANICE/static/js/2.ad1839b8.chunk.js.map",
+    "static/js/2.4352b24e.chunk.js": "/IAMJANICE/static/js/2.4352b24e.chunk.js",
+    "static/js/2.4352b24e.chunk.js.map": "/IAMJANICE/static/js/2.4352b24e.chunk.js.map",
     "index.html": "/IAMJANICE/index.html",
-    "precache-manifest.8093d0c424def8e86b4d050a26e7a4d5.js": "/IAMJANICE/precache-manifest.8093d0c424def8e86b4d050a26e7a4d5.js",
+    "precache-manifest.1ac638a34407581dce12f29d1c0148ea.js": "/IAMJANICE/precache-manifest.1ac638a34407581dce12f29d1c0148ea.js",
     "service-worker.js": "/IAMJANICE/service-worker.js",
-    "static/js/2.ad1839b8.chunk.js.LICENSE.txt": "/IAMJANICE/static/js/2.ad1839b8.chunk.js.LICENSE.txt"
+    "static/js/2.4352b24e.chunk.js.LICENSE.txt": "/IAMJANICE/static/js/2.4352b24e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6636b42f.js",
-    "static/js/2.ad1839b8.chunk.js",
-    "static/js/main.4c9258d3.chunk.js"
+    "static/js/2.4352b24e.chunk.js",
+    "static/js/main.a42c8a0a.chunk.js"
   ]
 }

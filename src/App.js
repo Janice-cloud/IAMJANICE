@@ -9,7 +9,7 @@ import Footer from "./components/Footer/index";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter >
       <div>
         <NavTabs />
         <Route exact path=  "/"  component={Home} />

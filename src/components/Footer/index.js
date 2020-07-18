@@ -1,11 +1,10 @@
 import React from "react";
-import "./style.css";
 
 
 function Footer() {
   return (
     <div>
-    <footer className="footer sticky-bottom">
+    <footer className="footer">
       <span>Janice Leung 2020</span>
     </footer>
     </div>

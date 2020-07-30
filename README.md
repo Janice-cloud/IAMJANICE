@@ -9,7 +9,7 @@ Having fun learning a new skills and debugging!
 
 ## My Portfolio! 
 ![Webpage Screenshot](/Images/webpage_screenshot.JPG)
-[IAMJANICE](https://janice-cloud.github.io/IAMJANICE/Index.html)
+[I AM JANICE](https://quizzical-wescoff-cf937c.netlify.app/)
 
 ## Technologies
 * Bootstrap 4
